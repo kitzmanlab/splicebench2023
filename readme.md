@@ -1,9 +1,4 @@
 Download and unzip data from Zenodo
-```
-#TODO link here
-#FOR now, 
-rsync -avu -e ssh son:/nfs/turbo/umms-kitzmanj/oldvol2/jacob/proj/splicebench/for_zenodo/ ../data/ 
-```
 
 Get and setup hg19 reference
 ```
@@ -13,4 +8,4 @@ bgzip hg19.fa
 samtools faidx hg19.fa.gz
 ```
 
-Install [splfxseq package](https://github.com/kitzmanlab/splfxseq)# splicebench2023
+Install [splfxseq package](https://github.com/kitzmanlab/splfxseq)
