@@ -1,4 +1,5 @@
-Download and unzip data from Zenodo
+Download and unzip data from Zenodo [10.5281/zenodo.8351879
+](https://zenodo.org/record/8351879)
 
 Get and setup hg19 reference
 ```
